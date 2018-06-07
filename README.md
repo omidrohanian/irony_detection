@@ -9,7 +9,7 @@ Dependencies:
 * NLTK 
 * Gensim 
 
-If you use the code for your project, please cite the following paper:
+If you use the code for your project, please cite the following paper (<a href="http://www.aclweb.org/anthology/S18-1090">link</a> to PDF):
 
 ```
 @inproceedings{rohanian2018wlv,
