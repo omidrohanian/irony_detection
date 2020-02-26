@@ -5,9 +5,13 @@ Dependencies:
 
 * Ekphrasis (`pip install ekphrasis`)
 * Stanford CoreNLP 
-* Sklearn 
-* NLTK 
-* Gensim 
+* Pycore NLP (`pip install pycorenlp`)
+* Sklearn / scikit-learn (`pip install scikit-learn`)
+* NLTK (`pip install nltk`)
+	* nltk.download('wordnet')
+	* nltk.download('averaged\_perceptron\_tagger')
+	* nltk.download('sentiwordnet')
+* Gensim (`pip install gensim`)
 
 If you use the code for your project, please cite the following paper (<a href="http://www.aclweb.org/anthology/S18-1090">link</a> to PDF):
 
